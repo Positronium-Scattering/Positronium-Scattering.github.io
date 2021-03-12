@@ -7,4 +7,4 @@ feature_text: |
 
 Here's some sample text where we could add a longer description.
 
-_This is a link to the OIT website. [OIT](https://www.oit.edu/)_
+_This is a link to the OIT website. [Oregon Institue of Technology](https://www.oit.edu/)_
