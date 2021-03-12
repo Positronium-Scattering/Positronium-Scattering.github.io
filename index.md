@@ -15,4 +15,4 @@ Here is some embedded code:
 
 Here's a picture:
 
-{% include figure.html image="/assets/img/test_img.png" position="center" %}
+{% include figure.html image="/assets/img/test.png" position="center" %}
