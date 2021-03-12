@@ -9,10 +9,11 @@ Here's some sample text where we could add a longer description.
 
 _This is a link to the OIT website. [Oregon Institue of Technology](https://www.oit.edu/)_
 
+Here's a picture:
+
+{% include figure.html image="/assets/img/test.png" position="center" %}
+
 Here is some embedded code:
 
 <script src="https://gist.github.com/Positronium-Scattering/af840943e9c0aa16dc6e46599c9b22ef.js"></script>
 
-Here's a picture:
-
-{% include figure.html image="/assets/img/test.png" position="center" %}
