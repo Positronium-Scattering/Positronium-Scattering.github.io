@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: About us
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+We are some pretty smart people doing smart people things.
