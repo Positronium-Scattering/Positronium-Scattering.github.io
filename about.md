@@ -5,5 +5,5 @@ feature_image: "https://cdn.pixabay.com/photo/2015/08/24/12/54/banner-904890_128
 
 Dr. Robyn Wilde is a professor at Oregon Institute of Technology.
 
-{% include figure.html image="/assets/img/wild_smol.png" position="center" %}
+{% include figure.html image="/assets/img/wilde_smol.png" position="center" %}
 
