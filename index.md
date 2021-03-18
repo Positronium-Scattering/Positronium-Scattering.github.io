@@ -1,5 +1,5 @@
 ---
-title: We do physics.
+title: Positronium and Electron Scattering
 feature_image: "https://www.oit.edu/sites/default/files/styles/page_banner/public/2020-06/default-page-banner.png?h=10315cc0&itok=9yyqT75s"
 feature_text: |
   ## Wilde Research Group
