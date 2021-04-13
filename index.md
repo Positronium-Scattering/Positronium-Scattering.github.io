@@ -5,7 +5,7 @@ feature_text: |
   ## Wilde Research Group
 ---
 
-We are currently working on calculating scattering cross sections and phase shifts for electron and positronium incident on rare-gas atoms. We employ various local and nonlocal approximatation techniques including orthogonalizing pseudopotentials and lagrange multiplier methods to simulate the effect of orthogonality between scattered orbitals. We compare our results from these approximations against exact calculations and experimental data, where available. 
+We are currently working on calculating scattering cross sections and phase shifts for electron and positronium incident on rare-gas atoms. We employ various local and nonlocal approximatation techniques including orthogonalizing pseudopotentials and lagrange multiplier methods to simulate the effect of orthogonality between scattered orbitals. We then compare our results from these approximations against exact calculations and experimental data, where available. 
 
 _This is a link to the OIT website. [Oregon Institue of Technology](https://www.oit.edu/)_
 
